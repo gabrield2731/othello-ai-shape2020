@@ -1,6 +1,6 @@
 
-# SHAPE 2020 - Advnaced Computer Science
-## Adversarial Serach / Game Playing
+# SHAPE 2020 - Advanced Computer Science
+## Adversarial Search / Game Playing
 
 ### Introduction
 
